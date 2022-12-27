@@ -1,0 +1,70 @@
+*{
+    margin =0 ;
+}
+
+p{
+    color:#00b894;
+    font-size:30px;
+    font-weight:bold;
+    text-decoration: underline;
+    text-decoration-color:#a29bfe;
+    text-decoration-style: dashed;
+}
+h1{
+    color:blue;
+    text-transform: uppercase;
+    margin: 30px;
+    margin: 30px 10px;
+    margin: 30px 40px 10px 20px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 70px;
+    margin-bottom: 0px;
+    text-align:center;
+    /*background: #fd79a8;*/
+    background-image: linear-gradient(to right, #81ecec,red,#81ecec);
+    background-image:radial-gradient(red,yellow,green);
+}
+.Sanskriti{
+    width:200px;
+    height:200px;
+    background:url("../images/image.jpg")no-repeat center;
+    background-size: cover;
+    float:left;
+}
+.Rekha{
+    width:200px;
+    height:200px;
+    background:url("../images/flower.jpg")no-repeat center;
+    background-size:cover;
+    float:left;
+}
+
+
+
+.kriti{
+    width:200px;
+    height:200px;
+    background:url("../images/kriti.JPG")no-repeat center;
+    background-size:cover;
+    float:left;
+}
+
+
+
+.Prajwol{
+    width:200px;
+    height:200px;
+    background:url("../images/prajwol.jpg")no-repeat center;
+    background-size:cover;
+    float:left;
+}
+
+
+.Arjun{
+    width:200px;
+    height:200px;
+    background:url("../images/fg.jpg") no-repeat center;
+    background-size:cover;
+    float:left;
+}
