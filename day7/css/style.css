@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: red;
+}
+
+
+
+
+
+
+/* .team{
+    padding: 15px;
+    background: #666;
+    min-height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.member{
+    width: 300px;
+    min-height: 400px;
+    background: #fff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.image-box{
+    position: relative;
+    overflow: hidden;
+}
+
+.image-box img{
+    width: 100%;
+}
+
+.member h4{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.member h5{
+    font-size: 20px;
+    text-align: center;
+}
+
+.social-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    min-height: 60px;
+    background-color: #ff630e;
+    border-radius: 5px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: all linear 0.3s;
+    opacity: 0;
+}
+
+.social-link .fa-brands{
+    color: #fff;
+    font-size: 20px;
+    margin: 0 7px;
+}
+
+.member:hover .social-link{
+    top: 70%;
+    opacity: 1;
+}
+
+
+
+
+.container{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: brown;
+    height: 500px;
+}
+
+.box{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background: #000;
+    margin: 5px;
+}
+
+.box1{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 100px;
+    height: 100px;
+    background: red;
+    transform: translate(50%,-50%);
+}
+
+.next-box{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background: red;
+    overflow: hidden;
+}
+.box2{
+    position: absolute;
+    top: 100%;
+    right: 50%;
+    width: 100px;
+    height: 100px;
+    background: green;
+    transform: translateX(50%);
+    transition: all linear 0.3s;
+    opacity: 0;
+}
+
+.next-box:hover .box2{
+    top: 50%;
+    opacity: 1;
+} */

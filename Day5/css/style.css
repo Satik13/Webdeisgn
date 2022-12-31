@@ -21,15 +21,41 @@ nav ul li{
 nav ul li a{
     display:inline-block;
     text-decoration: none;
-    background-color: blueviolet;
+    background-color: green;
     color:blanchedalmond;
     padding:10px 30px;
     border-radius: 15px;
     text-transform: uppercase;
     font-family: 'Sevillana', cursive;
 }
-span{
+.box-container{
+    width:100%;
+    text-align:center;
+}
+.box-item{
     display:inline-block;
-    background:red;
-    margin-top: 50px;
+    width:19%;
+    background:white;
+    text-align: center;
+    box-shadow: 0px 5px 15px -10px black;
+}
+.item-image{
+    border-radius:15px;
+    overflow:hidden;
+    margin-bottom: 5px;
+}
+.item-image img{
+    width:100%;
+    height:150px;
+}
+.box-item span {
+    display:inline-block;
+    margin-bottom: 15px;
+}
+.box-item h4{
+    font-size:20px;
+}
+.box-item span{
+    font-size:15px;
+    color:black;
 }
